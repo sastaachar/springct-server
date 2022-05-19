@@ -1,0 +1,12 @@
+{
+  "john": {
+    "userid": "john",
+    "pass": "123",
+    "admin": false
+  },
+  "raju": {
+    "userid": "raju",
+    "pass": "1231",
+    "admin": true
+  }
+}

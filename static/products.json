@@ -1,0 +1,98 @@
+[
+  {
+    "name": "apple",
+    "price": 23.23,
+    "image": "https://5.imimg.com/data5/QV/KU/YK/ANDROID-96753161/images-20-jpeg-500x500.jpeg",
+    "id": 1
+  },
+  {
+    "name": "orange",
+    "price": 123.12,
+    "image": "https://iranfreshfruit.net/wp-content/uploads/2020/01/ORANGE.jpg",
+    "id": 2
+  },
+  {
+    "name": "pineapple",
+    "price": 12,
+    "image": "https://5.imimg.com/data5/WT/GN/ZH/SELLER-3722283/pineapple-500x500.jpg",
+    "id": 3
+  },
+  {
+    "name": "kiwi",
+    "price": 231,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 4
+  },
+  {
+    "name": "lichi",
+    "price": 1.69,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 5
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 6
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 7
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 61
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 62
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 63
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 64
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 65
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 612
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 623
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 612342
+  },
+  {
+    "name": "pear",
+    "price": 12.98,
+    "image": "https://images.news18.com/ibnlive/uploads/2021/09/kiwi.jpg",
+    "id": 6124
+  }
+]
